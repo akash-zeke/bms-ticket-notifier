@@ -598,7 +598,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "2"
     },
     "PSKL|24365|20261025|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -1270,7 +1270,7 @@
       "date": "20261025",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "3"
     },
     "PVES|35521|20261025|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
