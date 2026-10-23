@@ -38,7 +38,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|44185|20261025|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -318,7 +318,7 @@
       "date": "20261025",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "2"
+      "status": "0"
     },
     "PCAN|46895|20261025|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -374,7 +374,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|47055|20261025|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -382,7 +382,7 @@
       "date": "20261025",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PCAN|46896|20261025|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -470,7 +470,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PGRA|23676|20261025|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -502,7 +502,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PGRA|23645|20261025|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -590,7 +590,7 @@
       "date": "20261025",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|28900|20261025|ECONOMY": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -990,7 +990,7 @@
       "date": "20261025",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PSKL|24444|20261025|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -1062,7 +1062,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PABC|22718|20261025|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -1070,7 +1070,7 @@
       "date": "20261025",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PABC|22709|20261025|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -1542,7 +1542,7 @@
       "date": "20261025",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|33471|20261025|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
